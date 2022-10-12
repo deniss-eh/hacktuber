@@ -2,9 +2,11 @@
 A open-source repository made for beginners who are looking for contributing in hacktoberfest and learn about hacktoberfest.
 
 # Hacktoberfest-2022🔥
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/deniss-eh/hacktuber/main/hacktoberfest.png" alt="hacktoberfest" width="60%" height="50%">
 </div>
+
 ## This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
 :star: Feel free to use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
