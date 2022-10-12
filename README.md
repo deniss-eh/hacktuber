@@ -1,5 +1,5 @@
 # Hacktuber
-A open-source repository made for beginners who are looking for contributing in hacktoberfest and learn about hacktoberfest.
+An open-source repository made for beginners who are looking for contributing in hacktoberfest and learn about hacktoberfest.
 
 # Hacktoberfest-2022🔥
 
