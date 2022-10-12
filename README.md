@@ -1,28 +1,68 @@
-# Hacktuber
-A open-source repository made for beginners who are looking for contributing in hacktoberfest and learn about hacktoberfest.
+# Hacktoberfest-2022🔥
 
-<h1 align="center">Hacktoberfest 2022</h1>
+<br>
+<p align="center">
+  <https://www.google.com/url?sa=i&url=https%3A%2F%2Fdev.to%2Fgithub%2Fhow-to-get-ready-for-hacktoberfest-2022-2ck2&psig=AOvVaw3ezI7pi39kHIEfe-GkedLX&ust=1664646042501000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCIsPOHvfoCFQAAAAAdAAAAABAD>
+</p>
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/deniss-eh/hacktuber/main/hacktoberfest.png" alt="hacktoberfest" width="60%" height="50%">
-</div>
+## This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
-### What is Hacktoberfest?
-Hacktoberfest is a month-long celebration from October 1st - 31st sponsored by Digital Ocean and GitHub to get people involved in Open Source. Create your very first pull request to any public repository on GitHub and contribute to the open source developer community.
+:star: Feel free to use this project to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
-## How can One join Hacktoberfest?
+:star: Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
 
-1. Create a [GitHub account](https://github.com)
-2. Register for [Hacktoberfest](https://hacktoberfest.com/auth)
-3. [Find Hacktoberfest participating repository to contribute](https://github.com/topics/hacktoberfest?o=desc&s=updated)
+### This repository is open to all members of the GitHub community. Any member can contribute to this project!
+# Guidelines
 
-## How can I contribute ?
 
-Contrubtion is easy and fun/
-You can
-- contribute according to open issues
-- fix bugs
-- add new features
-- open valid pull requests
+    1. Note: Do not create a new directory if already exists.
+    2. Writing the author's name and the date modified is a must (Write it as a multiline comment in your code).
+    3. Filename should be meaningful.
+    4. Don't spam it will be rejected immediately.
 
-Note: This Repository is in under development. You can also contribute to it by opening valid pull requests.
+---
+
+# Steps For Contribution
+
+0. Star <a href="https://github.com/deniss-eh/hacktuber" title="this">this</a> repository.
+
+1. Fork <a href="https://github.com/deniss-eh/hacktuber" title="this">this</a> repository.
+
+2. Clone the forked repository.
+```css
+git clone https://github.com/<your-github-username>/noter-js
+```
+  
+3. Navigate to the project directory.
+```py
+cd noter-js
+```
+
+4. Create a new branch.
+```css
+git checkout -b <your_branch_name>
+```
+
+5. Make changes.
+
+6. Stage your changes and commit
+```css
+git add -A
+
+git commit -m "<your_commit_message>"
+```
+
+7. Push your local commits to the remote repo.
+```css
+git push -u origin <your_branch_name>
+```
+
+8. Create a Pull Request.
+
+9. Congratulations! 🎉 you've made your contribution.
+
+
+---
+
+
+
